@@ -1,9 +1,3 @@
-.color-small {
-  background-color: aqua;
-}
-.color-middle {
-  background-color: coral;
-}
-.color-large {
-  background-color: greenyellow;
+body {
+  font-family: sans-serif;
 }
